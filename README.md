@@ -3,8 +3,10 @@
 Batch 22
 TEAN MEMBERS:
 
-711715104048-Reena.D,
-711715104052-Sathyan.S,
+711715104048-Reena.D
+
+711715104052-Sathyan.S
+
 711715104072-Vinayagamoorthy.G
 
 Module Split-up
