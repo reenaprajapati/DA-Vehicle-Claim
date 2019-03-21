@@ -1,19 +1,32 @@
 # DATA ANALYSIS FOR VEHICLE CLAIMS  
 
-# TEAM MEMBERS: CSE DEPARTMENT
+Batch 22
+TEAN MEMBERS:
 
 711715104048-Reena.D,
 711715104052-Sathyan.S,
 711715104072-Vinayagamoorthy.G
 
-# ABSTRACT
+Module Split-up
+
+1.Data collection-(Done by all)
+2.Data Cleaning
+3.Analysing
+  3.1 K-Means
+  3.3 Linear Regression
+  3.3 Decision Tree
+4.Prediction
+  4.1 Visualyzing
+  4.2 Tableau-Reena
+
+ABSTRACT
            A system that helps in visualizing and analysing the motor insurance vehicle claims. It distributes interactive and sharable dashboards which depict the trends variations and density of the data in form of graphs and charts. It will be  useful for future prediction and comparison of data.Claims analysis is a technique for examining the positive and negative consequences of design features that are described in current or future scenarios of use. A "claim" is a statement of the consequences of a specific design feature or artifact on users and other stakeholders. This system is planned to build using the TABLEAU software to visualise the data.
    
-# FUTURE ENHANCEMENT
+FUTURE ENHANCEMENT
            In future we are going to make the project more flexible for adapting new technologies.Also we have a plan to process artificial intelligence in our project.Support will always be given to all our customers and any queries regarding to our project will be resolved.Additional tools will be added and the feedback,support page will be added so that the user’s opinion will be considered.
 Constant updates will be provided and security will always be in a consideration and will be improved.Data security is our top priority and we make sure any data without our knowledge will not be leaked.
 
-# ADVANTAGE:
+ADVANTAGE:
 
 1.Working on large number of data using TABLEAU
 2.Classify the insurance claim details
