@@ -11,9 +11,9 @@ TEAM MEMBERS:
 
 Module Split-up
 
-1.Data collection-(Done by all)
-2.Data Cleaning-Sathyan
-3.Analysing
+1.Data collection-(Done by all)                                                                                                         
+2.Data Cleaning-Sathyan                                                                                                                 
+3.Analysing                                                                                                                             
   3.1 K-Means-Vinayagamoorthy
   3.3 Linear Regression-Reena
   3.3 Decision Tree-Reena
